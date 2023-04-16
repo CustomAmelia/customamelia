@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/videotapings" target="blank"><img src="https://img.shields.io/twitter/follow/videotapings?logo=twitter&style=for-the-badge" alt="videotapings" /></a> </p>
 
-- 🔭 I’m currently working on [Noblox Utils](https://github.com/CustomAmelia/nobloxutils)
+- 🔭 I’m currently working on [Noblox Utils](https://github.com/CustomAmelia/nobloxutils) and a Project on Discord Bot API with SpaceBoy#1275
 
 - 🌱 I’m currently learning **Python**
 
