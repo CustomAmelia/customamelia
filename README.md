@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/videotapings" target="blank"><img src="https://img.shields.io/twitter/follow/videotapings?logo=twitter&style=for-the-badge" alt="videotapings" /></a> </p>
 
-- 🔭 I’m currently working on [Noblox Utils](https://github.com/CustomAmelia/nobloxutils) and a Project on Discord Bot API with SpaceBoy#1275
+- 🔭 I’m currently working on [Noblox Utils](https://github.com/CustomAmelia/nobloxutils) and a Discord Bot called Phoenix using Discord Bot API with https://github.com/NotSpaceBoy
 
 - 🌱 I’m currently learning **Python**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **amelia.#9866**
 
-- ⚡ Fun fact **I go by she/her pronouns**
+-  **I go by she/her pronouns**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
