@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amelia</h1>
-<h3 align="center">A Beginner Node.JS JavaScript Developer from Lancashire</h3>
+<h3 align="center">I'm a passionate beginner programmer from the UK. I have a strong ambition to become a software engineer and have been working hard to make that dream a reality. I'm constantly learning new skills and pushing myself to become the best programmer I can be. I'm excited to see where my journey takes me and am looking forward to the challenges that come with it.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=customamelia" alt="customamelia" /></a> </p>
 
