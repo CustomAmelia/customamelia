@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=customamelia" alt="customamelia" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/videotapings" target="blank"><img src="https://img.shields.io/twitter/follow/videotapings?logo=twitter&style=for-the-badge" alt="videotapings" /></a> </p>
-
 - 🔭 I’m currently working on [Noblox Utils](https://github.com/CustomAmelia/nobloxutils) and a Discord Bot called Phoenix using Discord Bot API with https://github.com/NotSpaceBoy
 
 - 🌱 I’m currently learning **Python**
